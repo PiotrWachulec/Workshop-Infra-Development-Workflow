@@ -1,0 +1,8 @@
+// Example from https://documenter.getpostman.com/view/8854915/Szf7znEe#86a5b520-e907-4eee-95fd-6dcdc24f8a83
+// Random dad joke
+
+@url = https://icanhazdadjoke.com/
+
+###
+GET {{url}}
+Accept: application/json
